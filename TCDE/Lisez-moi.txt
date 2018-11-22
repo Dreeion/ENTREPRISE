@@ -1,0 +1,77 @@
+Bonjour tout le monde ce .text c'est l'endroit le plus fun du jeu où je peux vous parlez librement et sans aucune gène^^
+(Arthur je t'emmerde par exemple ^^ )
+
+Bon bref je suis pas la pour niquer des mères je suis là pour vous avertir qu'en lançant cette version du jeu votre vie cour un grand danger...
+SURTOUT ne mettez pas le son a fond et encore plus si vous avez un casque vous risquez une perte définitive de l'audition j'ai pas fini de coder le son...
+(je tiens à m'excuser pour oute les personnes qui ne lirons pas cette avertissement mais avant d'utiliser un logiciel vous devez lire le lisez-moi.txt donc c'est un peu de votre faute en fait 
+
+Bref je suis censé mettre une description du jeu ici donc heeeuuuuu : piou piou piou boouuummmmmrrrrrrrrrrrrpccchhhhhh *musique trop cool* pchhhhhhhhhhbrrrrrrrrrrrrr
+
+voilà ça c'est fait ^^
+
+
+
+
+
+Ah oui, faut une licence d'exploitation c'est vrai... attendez je fouille dans mon beau pc gamer predator qui ne possède pas de PTN de SSD AAAAAAAAH ZDKLJGBAZRJHGVZFDJHGDGDGH!!!!!!!!!!!!!!............
+
+------------------------------------------------------------------------------------------------------------------------------------
+// License : GPL v3
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License,
+// or any later version.
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see <http://www.gnu.org/licenses/>.
+// ( c'est une licence de merde je sais vos gueules ).
+------------------------------------------------------------------------------------------------------------------------------------
+
+Oh je vais mettre les rapports de mise à jours aussi tiens  :
+
+
+------06/11/2018 à 23:59 V0.001------
+- Sortie du Jeu														 ()
+
+------14/11/2018 à 23:59 V0.002------
+- Ajout de laser pouvant être tirer par le joueur                                                                        (Non fonctionnel...)
+- Ajout d'un fond d'écran dynamique  											 ()
+
+------15/11/2018 à 23:59 V0.003------
+- Supression des lasers pouvant être tirer par le joueur afin de modifier la structure de la boucle permettant des tirs  ( Ne fonctionnait pas comme prévu...) 
+- Modification de la vitesse des ennemis                                                                                 ( Vitesse doublée afin déviter un bug pouvant provoquer une plantage du jeu )
+- Modification du modèle graphique des ennemis afin de les rendre plus visible                                           ( En raison de l'augmentation de la vitesse des ennemis il devenait en effet difficile de les suivre des yeux nous avons donc décidé de changer radicalement leur couleur en les passant du rouge au vert claire améliorant ainsi leur contraste avec le fond) 
+- Mise a jour du contenu du fichier "data"                                                                               ( Pour ceux qui n'auront pas fouillé c'est une surprise qui arrivent bientôt )
+- Supression du curseur de la souris                                                                                     ( Cette mise à jour n'est pas définitive et nous pourrons à tout moment réafficher la souris )
+- Ajout d'information dynamique pour le dévelopement                                                                     (les nombres que vous voyez en haut à gauche nous aide à coder)
+- Optimisation de la fluidité du jeu                                                                                     (Vous verrez pas la différence mais nous la voyons quand nous codons^^)
+
+------16/11/2018 à 19:45 V0.004------
+- Ajout des collisions entre le joueur et les ennemis         								 ()                                                           
+- Ajout d'une barre de point de vie                                                                                      (oui vous pouvez perdre mtn)
+- Ajout d'un intrerface utilisateur                                                                                      (Pas du tout inspiré de Blizzard)
+- Ajout d'une musique                                                                                                    (Merci à toi tu te reconnaitras ^^)
+- Ajout d'un "écran" Game-Over                                                                                           (Oui c'est un écran rouge ne jugez pas)
+- Restructuration du fichier "data"											 (Augmentation de la vitesse de démarage du jeu)
+- Restructuration général du code principal 										 (Le modèle de la structure utilisé ne correspondait plus au besoin du logiciel... le codage "Spaghettie" à ces limites nous somme passé à un code structuré plus lourd mais plus facile à modifier nous pouvons donc accelérer la sortie des mises à jours)
+- Modification du modèle du vaisseau du joueur pour amélioré la qualité des collisions                                   (L'image affiché ne correspondait pas à la taille de l'image réelle posant de réelle problème de Gameplay)
+- Divers correction de bug 												 (Vous ne verrez pas la différences)
+- Ajout du document lisez-moi.txt                                                                                        (Enfin un endroit où je suis libre de parlé^^)
+
+------A VENIR------
+
+------19/11/2018 à 23:59 V0.005------
+- Ajout d'un Menu Principale
+- Mise a jour du contenu du fichier "data"
+------19/11/2018 à 23:59 V0.006------
+- Ajout d'un Menu Paramètre
+- Mise a jour du contenu du fichier "data"
+- Ajout de nouvelles musiques
+- Ajout de nouveau sons
+- Ajout du réglage du volume sonore
+- Ajout de la possibilité de couper complétement le son
+
+Bien évidement l'évolution du jeu n'est pas fixée à cette liste et nous pouvons prendre du retard ou de l'avance ou même vous réserver quelques surprises ^^

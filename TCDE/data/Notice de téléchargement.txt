@@ -1,0 +1,11 @@
+Pour les gens qui savent pas comment faire : 
+
+- Clique droit sur le DOSSIER "Ton_Cul_Dans_L'Espace"
+- Clique gauche sur télécharger 
+- Google Drive va le compresser en fichier Zip puis le télécharger sur votre Windows
+- Pour décompresser un fichier vous pouvez utiliser le logiciel 7-Zip (gratuit et sans virus)
+- Ouvrer le fichier une fois décompressé 
+- Petit conseil lisez le FICHIER "lisez-moi.txt" 
+- Pour lancer le jeu double-cliquez sur le fichier "Ton_Cul_Dans_L'Espace.exe"
+
+(ne déplacez jamais les fichier du jeux il est assez instable comme ça c'est un bébé vous voulez pas qu'il vous saute à la gueule quand même...)

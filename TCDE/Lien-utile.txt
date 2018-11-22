@@ -1,0 +1,5 @@
+Liens utiles pour suivre et/ou participer au projet :
+
+- https://trello.com/invite/b/R1NAgcik/bf1e56bd0e97848c5b1c57684c6ab547/organisation
+- https://github.com/Dreeion/cour-PHP
+- Bientôt serveur discord
